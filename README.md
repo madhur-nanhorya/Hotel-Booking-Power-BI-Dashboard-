@@ -8,48 +8,48 @@ Features
 
 1) Booking Cancellation Distribution
 
-Visual representation of the proportion of canceled and non-canceled bookings.
-
-Provides insight into cancellation rates.
+  Visual representation of the proportion of canceled and non-canceled bookings.
+  
+  Provides insight into cancellation rates.
 
 2) Monthly Booking Trends
 
-A line chart showing total bookings over time, segmented by year.
-
-Helps identify peak and low booking months.
+  A line chart showing total bookings over time, segmented by year.
+  
+  Helps identify peak and low booking months.
 
 3) Cancellation Trends by Month
 
-Percentage-based trend visualization of cancellations across different months.
-
-Useful for seasonality analysis.
+  Percentage-based trend visualization of cancellations across different months.
+  
+  Useful for seasonality analysis.
 
 4) Bookings by Market Segment
 
-Breakdown of bookings across various market segments (e.g., Online TA, Offline TA/TO, Direct, Corporate, etc.).
-
-Includes data on total bookings and cancellations for each segment.
+  Breakdown of bookings across various market segments (e.g., Online TA, Offline TA/TO, Direct, Corporate, etc.).
+  
+  Includes data on total bookings and cancellations for each segment.
 
 5) Performance by Arrival Month
 
-Table showing:
+Table showing :
 
-Average lead time (days).
+  Average lead time (days).
+  
+  Total cancellations.
+  
+  Average Daily Rate (ADR).
+  
+  Organized by month for comparative analysis.
 
-Total cancellations.
+Dataset :
 
-Average Daily Rate (ADR).
-
-Organized by month for comparative analysis.
-
-Dataset
-
-The dashboard uses data related to:
-
-Booking cancellations.
-
-Booking volumes by month and year.
-
-Market segment performance.
-
-Lead times and ADR for various months.
+  The dashboard uses data related to:
+  
+  Booking cancellations.
+  
+  Booking volumes by month and year.
+  
+  Market segment performance.
+  
+  Lead times and ADR for various months.
